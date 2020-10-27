@@ -22,7 +22,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 O Happy é uma aplicação que conecta pessoas à casas de acolhimento institucional para fazer o dia de muitas crianças mais feliz 
 💜
 
-## Layout
+## 🎨 Layout
 Mobile: https://www.figma.com/file/VcJrFmVNnYf8zKvXqCEvqk/Happy-Mobile-(Copy)?node-id=0%3A1
 
 Web: https://www.figma.com/file/rum6pSwgBZjwuqomVpBo2k/Happy-Web-(Copy)?node-id=0%3A1
