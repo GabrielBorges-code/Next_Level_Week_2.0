@@ -4,7 +4,8 @@ export default {
     render(image: Image) {
         return {
             id: image.id,
-            url: `http://localhost:3333/uploads/${image.path}`,
+            /* O ip da máqui pode mudar, então sempre verificar quando iniciar o app mobile e o back qual é o ip da máquina e alterar */
+            url: `http://192.168.0.12:3333/uploads/${image.path}`,
            
         };
     },
